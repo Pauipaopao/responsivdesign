@@ -1,0 +1,48 @@
+@media screen and (min-width: 420px) {
+
+    body {
+    
+    background: purple; margin: 2px;
+    
+    }
+    
+    }
+    @media screen and (min-width: 794px) {
+        body {
+            background-color: antiquewhite;
+        }
+
+        h1 {
+            font-size: large;
+        }
+        
+        h2 {
+            font-size: medium;
+        }
+        
+        img {
+        
+        max-width: 100%;
+        
+        }
+        
+        figure {
+        
+        margin: 4px;
+        
+        } 
+    }
+@media screen and (min-width: 1020px) {
+    body {
+        background-color: cornflowerblue;
+    }
+    h1 {
+        font-size: xx-large;
+    }
+    h2 {
+        font-size: x-large;
+    }
+    figure {
+        margin: 8px;
+    }
+}
